@@ -1,0 +1,31 @@
+  @import "../abstracts/variables";
+  @import "../abstracts/mixins";
+
+  .center-text {
+    text-align: center;
+  }
+
+  .flex-between {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .mrg-0-auto {
+    margin: 0 auto;
+  }
+
+  .mrg-btm-big {
+    margin-bottom: 8rem;
+  }
+
+  .mrg-btm-sml { margin-bottom: 1.5rem }
+
+  .mrg-btm-med { margin-bottom: 4rem }
+
+  .mrg-top-med { margin-top: 4rem }
+
+  .mrg-top-big { margin-top: 8rem }
+
+  .mrg-top-huge { margin-top: 10rem}
+
+
